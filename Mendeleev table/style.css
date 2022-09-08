@@ -1,0 +1,14 @@
+table {
+    font-family: 'Inter', sans-serif;
+    margin-top: 50px;
+    border: 1px;
+    width: 100%;
+}
+.block {
+    background: rgba(red, green, blue, alpha);
+    color: red;
+    
+}
+tr {
+    border: 100px solid black;
+}
