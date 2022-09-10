@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../lesson-1"
+		},
+		{
+			"path": "../lesson-1/.git"
+		},
+		{
+			"path": "../cv"
+		},
+		{
+			"path": "../lesson-2"
+		},
+		{
+			"path": "../lesson-3"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../lesson-4"
+		},
+		{
+			"path": "../lesson-5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
